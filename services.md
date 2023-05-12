@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Artistic innovation at its finest
+# Innovation artistique à son meilleur
 
-Our services provide top-tier curation of innovative generative art, limitless exhibition possibilities with computational services, fast payments, high-quality printing, fundraising opportunities, seamless installations, and global promotion. We also offer tokenization for ownership and trade.
+Nos services offrent une curation de premier ordre d'art génératif innovant, des possibilités d'exposition illimitées avec des services de calcul, des paiements rapides, une impression de haute qualité, des opportunités de collecte de fonds, des installations sans faille et une promotion mondiale. Nous proposons également la tokenisation pour la propriété et le commerce.
