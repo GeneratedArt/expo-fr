@@ -1,9 +1,9 @@
 main:
-  - name: "Home"
+  - name: "Accueil"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "A Propos"
+    url: "/propos/"
     weight: 2
   - name: "Services"
     url: "/services/"
@@ -11,24 +11,24 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "/es"
-    url: "https://expo.es.generatedart.com"
+  - name: "/en"
+    url: "https://deco.generatedart.com"
     weight: 6
-  - name: "/pt"
-    url: "https://expo.pt.generatedart.com"
+  - name: "/es"
+    url: "https://deco.es.generatedart.com"
     weight: 7
-  - name: "/fr"
-    url: "https://expo.fr.generatedart.com"
+  - name: "/pt"
+    url: "https://deco.pt.generatedart.com"
     weight: 8
   - name: "/de"
-    url: "https://expo.de.generatedart.com"
+    url: "https://deco.de.generatedart.com"
     weight: 9
   - name: "/it"
-    url: "https://expo.it.generatedart.com"
+    url: "https://deco.it.generatedart.com"
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Site principal"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
@@ -37,14 +37,14 @@ footer:
   - name: "Exposition"
     url: "https://expo.generatedart.com"
     weight: 3
-  - name: "Decoration"
+  - name: "Décoration"
     url: "https://deco.generatedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Recherche"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Postuler"
+    url: "/postuler/"
     weight: 6
 
 
