@@ -1,7 +1,7 @@
 [
   {
-    "title": "Venue",
-    "description": "Generative art exhibitions create a mutually beneficial partnership between exhibition service providers and venues, with the venue receiving a commission on artwork sales and promotion on the GeneratedArt platform.",
+    "title": "Lieu",
+    "description": "Les expositions d'art génératif créent un partenariat mutuellement bénéfique entre les prestataires de services d'exposition et les lieux d'exposition, le lieu recevant une commission sur les ventes d'œuvres d'art et une promotion sur la plateforme GeneratedArt.",
     "image": {
       "url": "images/features/venue.png",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Artist",
-    "description": "Exhibiting generative art in different locations offers increased exposure, diverse feedback, networking opportunities, cultural exchange, and professional development for artists.",
+    "title": "Artiste",
+    "description": "Exposer de l'art génératif dans différents lieux offre une plus grande visibilité, des retours variés, des opportunités de réseautage, des échanges culturels et un développement professionnel pour les artistes.",
     "image": {
       "url": "images/features/artist.png",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Collector",
-    "description": "Discovering generative art exhibitions in different spaces throughout a city offers collectors a unique experience, access to exclusive artwork, generative art tours in new places, and potential investment opportunities.",
+    "title": "Collectionneur",
+    "description": "Découvrir des expositions d'art génératif dans différents espaces à travers une ville offre aux collectionneurs une expérience unique, un accès à des œuvres d'art exclusives, des visites d'art génératif dans de nouveaux lieux, ainsi que des opportunités d'investissement potentielles.",
     "image": {
       "url": "images/features/collector.png",
       "width": 80,
