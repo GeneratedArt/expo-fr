@@ -4,29 +4,29 @@ date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-We offer a unique platform for venues and generative artists to showcase their work to a global audience, helping them to gain exposure and reach new potential buyers.
+Nous offrons une plateforme unique pour les lieux d'exposition et les artistes génératifs afin de présenter leurs travaux à un public mondial, les aidant à gagner en visibilité et à atteindre de nouveaux acheteurs potentiels.
 
 ![Promotion](/images/illustrations/promotion.png)
 
-# Overview
+# Aperçu
 
-Our promotion services offer exposure for generative art through various channels, including our social media pages, research publications, blog articles, online platforms, and public exhibitions. We aim to reach a diverse target audience, including:
+Nos services de promotion offrent une visibilité pour l'art génératif à travers divers canaux, y compris nos pages de médias sociaux, publications de recherche, articles de blog, plateformes en ligne et expositions publiques. Nous visons à toucher un public cible diversifié, comprenant:
 
-1. Art enthusiasts and collectors: Passionate individuals who appreciate innovative, cutting-edge creations, and may be interested in purchasing generative art for their personal collections or investments.
+1. Les amateurs d'art et les collectionneurs: Des individus passionnés qui apprécient les créations innovantes et avant-gardistes, et qui peuvent être intéressés par l'achat d'art génératif pour leurs collections personnelles ou investissements.
 
-2. Artists and designers: Creative professionals exploring new techniques and technologies or seeking inspiration from other artists in the generative art field.
+2. Les artistes et les designers: Des professionnels créatifs qui explorent de nouvelles techniques et technologies ou qui cherchent de l'inspiration auprès d'autres artistes dans le domaine de l'art génératif.
 
-3. Curators and gallery owners: Art industry professionals organizing and promoting exhibitions, discovering new artists, or showcasing generative art in their galleries.
+3. Les conservateurs et les propriétaires de galeries: Les professionnels de l'industrie de l'art qui organisent et promeuvent des expositions, découvrent de nouveaux artistes ou présentent de l'art génératif dans leurs galeries.
 
-4. Art educators and students: Those involved in teaching or studying art, interested in learning about the latest trends, developments, techniques, and tools in generative art.
+4. Les éducateurs d'art et les étudiants: Ceux qui sont impliqués dans l'enseignement ou l'étude de l'art, intéressés à apprendre les dernières tendances, développements, techniques et outils de l'art génératif.
 
-5. Researchers and academics: Professionals from various disciplines, such as computer science, artificial intelligence, and design, who study generative art or incorporate it into their research.
+5. Les chercheurs et les universitaires: Des professionnels de diverses disciplines, comme l'informatique, l'intelligence artificielle, et le design, qui étudient l'art génératif ou l'intègrent dans leurs recherches.
 
-6. Tech enthusiasts: Individuals fascinated by the intersection of art and technology, appreciating the innovative use of computational methods in creating generative art.
+6. Les passionnés de technologie: Des individus fascinés par l'intersection de l'art et de la technologie, appréciant l'utilisation innovante des méthodes computationnelles dans la création d'art génératif.
 
-7. General public: People who are curious about unique and engaging experiences offered by generative art exhibitions, interested in exploring new art forms, and gaining a better understanding of the creative possibilities enabled by technology.
+7. Le grand public: Des personnes qui sont curieuses des expériences uniques et engageantes offertes par les expositions d'art génératif, intéressées à explorer de nouvelles formes d'art et à acquérir une meilleure compréhension des possibilités créatives permises par la technologie.
 
-By targeting these diverse groups, our promotion services aim to raise awareness and generate interest in generative art, creating opportunities for artists and fostering appreciation for this innovative art form.
+En ciblant ces groupes diversifiés, nos services de promotion visent à sensibiliser et à susciter de l'intérêt pour l'art génératif, à créer des opportunités pour les artistes et à favoriser l'appréciation de cette forme d'art innovante.
 
 # Articles
 
