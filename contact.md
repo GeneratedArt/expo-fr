@@ -1,11 +1,11 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: Découvrez le monde de l'art génératif avec GeneratedArt. Nous offrons des services pour les expositions d'art génératif, la levée de fonds et la promotion des artistes. Rejoignez-nous dans cette exploration passionnante de la fusion entre l'art et la technologie !
 ---
 
-Thank you for wanting to join us on our generative art journey! If you have any general enquiries or questions, please do not hesitate to contact us via email or form bellow. We would be happy to hear from you and assist in any way we can.
+Merci de vouloir nous rejoindre dans notre voyage artistique génératif ! Si vous avez des questions générales, n'hésitez pas à nous contacter par email ou via le formulaire ci-dessous. Nous serions ravis de vous entendre et de vous aider de toutes les manières possibles.
 
-For those interested in hosting generative art exhibitions in their venue, we welcome you to submit your application to us. Our team will review all submissions and get in touch with you as soon as possible.
+Pour ceux qui sont intéressés à accueillir des expositions d'art génératif dans leur lieu, nous vous invitons à nous soumettre votre candidature. Notre équipe examinera toutes les soumissions et prendra contact avec vous dès que possible.
 
-If you are an artist interested in being part of our upcoming exhibitions, we invite you to send us your application. We are always excited to discover new talent and showcase innovative works in the field of generative art.
+Si vous êtes un artiste intéressé à faire partie de nos prochaines expositions, nous vous invitons à nous envoyer votre candidature. Nous sommes toujours ravis de découvrir de nouveaux talents et de présenter des œuvres innovantes dans le domaine de l'art génératif.
