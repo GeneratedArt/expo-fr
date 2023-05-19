@@ -26,13 +26,13 @@ GeneratedArt offre également une opportunité pour les organisations de collabo
 
 ![Organizations](/images/illustrations/blue.png)
 
-## Artists & Creative coders
+## Artistes & Codeurs créatifs
 
-As a platform dedicated to nurturing creativity, we recognize the crucial role that artists and creative coders play in the world of generative art. Our mission is to provide a supportive and collaborative environment where artists and coders can access a range of opportunities to develop their projects.
+En tant que plateforme dédiée à la stimulation de la créativité, nous reconnaissons le rôle crucial que jouent les artistes et les codeurs créatifs dans le monde de l'art génératif. Notre mission est de fournir un environnement de soutien et de collaboration où les artistes et les codeurs peuvent accéder à un éventail d'opportunités pour développer leurs projets.
 
-We offer guidance and resources to help them access a variety of grants and investments that can support their projects. These opportunities can come from diverse sources such as government organizations, private foundations, and venture capital firms, and we help navigate the application process to maximize their chances of success.
+Nous offrons des conseils et des ressources pour les aider à accéder à une variété de subventions et d'investissements susceptibles de soutenir leurs projets. Ces opportunités peuvent provenir de diverses sources telles que les organisations gouvernementales, les fondations privées et les sociétés de capital-risque, et nous aidons à naviguer dans le processus de candidature pour maximiser leurs chances de succès.
 
-Collaboration between artists, creative coders, and data providers is crucial in some cases for creating impactful generative art that engages audiences and raises awareness and funds for important causes. The artists use their creativity to transform complex data sets into visually compelling and thought-provoking art, while the creative coders bring the artist's vision to life with their technical expertise and mastery of coding languages. Some individuals may take on both roles, serving as both artist and creative coder. With the support of data providers and organizations, this collaboration creates unique, impactful works of generative art that inspire positive change in society.
+La collaboration entre les artistes, les codeurs créatifs et les fournisseurs de données est cruciale dans certains cas pour créer de l'art génératif impactant qui engage les publics et sensibilise et collecte des fonds pour des causes importantes. Les artistes utilisent leur créativité pour transformer des ensembles de données complexes en art visuellement convaincant et provocateur de réflexion, tandis que les codeurs créatifs donnent vie à la vision de l'artiste grâce à leur expertise technique et à leur maîtrise des langages de codage. Certains individus peuvent assumer les deux rôles, agissant à la fois comme artiste et codeur créatif. Avec le soutien des fournisseurs de données et des organisations, cette collaboration crée des œuvres uniques et impactantes d'art génératif qui inspirent un changement positif dans la société.
 
 ## Fournisseurs de données
 
